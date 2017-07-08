@@ -1,0 +1,5 @@
+print("FFFFFF    U     U    NNN    NN")
+print("FF        U     U    NN N   NN")
+print("FFFFFF    U     U    NN  N  NN")
+print("FF         U   U     NN   N NN")
+print("FF          UUU      NN    NNN")

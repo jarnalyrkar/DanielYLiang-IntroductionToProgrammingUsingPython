@@ -1,0 +1,20 @@
+import turtle
+
+center = -50, -50 #eval(input("Enter a center point (x1, y1): "))
+width = 100 #eval(input("Enter width: "))
+height = 50 #eval(input("Enter height"))
+
+turtle.penup()
+turtle.goto(center)
+turtle.forward(width/2)
+turtle.left(90)
+turtle.forward(height/2)
+turtle.pendown()
+turtle.forward(height)
+turtle.right(90)
+turtle.forward(width)
+turtle.right(90)
+turtle.forward(height)
+turtle.right(90)
+turtle.forward(width)
+turtle.done()
